@@ -1,5 +1,5 @@
 # AgriFinder
-Agrifinder is a machine learning project designed to help farmers determine the best crops to grow in a particular soil type based on its nutrient content and geographical location. The system takes in the input of the soil's nitrogen, phosphorus, and potassium (NPK) values, along with the state information, and uses this data to provide the most suitable crop for the given soil.
+Agrifinder is a machine learning project designed to help farmers determine the best crops to grow in a particular soil type based on its nutrient content and geographical location. The system takes in the input of the soil's nitrogen, phosphorus, and potassium (NPK) values, along with the temperature, humidity and state information, and uses this data to provide the most suitable crop for the given soil.
 
 The Agrifinder system is built on a machine learning algorithm that analyses the input data to determine the soil type and the crop that would perform best in that soil. This algorithm is trained using a large dataset of soil and crop information, which allows it to accurately predict the most suitable crops for a given soil type.
 
